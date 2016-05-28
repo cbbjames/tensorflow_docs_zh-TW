@@ -1,2 +1,2 @@
-# Sharing Variables
+# 變數(Variables)共用
 
