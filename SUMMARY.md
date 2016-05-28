@@ -16,4 +16,5 @@
    * [Sequence-to-Sequence Models](sequence-to-sequence_models.md)
    * [SyntaxNet: Neural Models of Syntax](syntaxnet_neural_models_of_syntax.md)
    * [Mandelbrot Set](mandelbrot_set.md)
+   * Partial Differential Equations
 
