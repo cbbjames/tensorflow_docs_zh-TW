@@ -26,5 +26,5 @@
    * [TensorBoard: Visualizing Learning](tensorboard_visualizing_learning.md)
    * [TensorBoard: Graph Visualization](tensorboard_graph_visualization.md)
    * [Reading Data](reading_data.md)
-   * Distributed TensorFlow
+   * [Distributed TensorFlow](distributed_tensorflow.md)
 
