@@ -33,4 +33,5 @@
    * [Writing Documentation](writing_documentation.md)
    * [Custom Data Readers](custom_data_readers.md)
    * [Using GPUs](using_gpus.md)
+   * Sharing Variables
 
