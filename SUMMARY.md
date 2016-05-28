@@ -22,4 +22,5 @@
    * [Deep Dream Visual Hallucinations](deep_dream_visual_hallucinations.md)
 * [How-Tos](how-tos.md)
    * [Variables: Creation, Initializing, Saving, and Restoring](variables_creation,_initializing,_saving,_and_rest.md)
+   * TensorFlow Mechanics 101
 
