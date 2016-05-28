@@ -12,4 +12,5 @@
    * [TensorFlow Serving](tensorflow_serving.md)
    * [Convolutional Neural Networks](convolutional_neural_networks.md)
    * [Vector Representations of Words](vector_representations_of_words.md)
+   * Recurrent Neural Networks
 
