@@ -10,4 +10,5 @@
    * [Deep MNIST for Experts](deep_mnist_for_experts.md)
    * [TensorFlow Mechanics 101](tensorflow_mechanics_101.md)
    * [TensorFlow Serving](tensorflow_serving.md)
+   * Convolutional Neural Networks
 
