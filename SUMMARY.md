@@ -25,5 +25,5 @@
    * [TensorFlow Mechanics 101](how_tensorflow_mechanics_101.md)
    * [TensorBoard: Visualizing Learning](tensorboard_visualizing_learning.md)
    * [TensorBoard: Graph Visualization](tensorboard_graph_visualization.md)
-   * Reading Data
+   * [Reading Data](reading_data.md)
 
