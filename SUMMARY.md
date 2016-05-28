@@ -14,5 +14,5 @@
    * [Vector Representations of Words](vector_representations_of_words.md)
    * [Recurrent Neural Networks](recurrent_neural_networks.md)
    * [Sequence-to-Sequence Models](sequence-to-sequence_models.md)
-   * SyntaxNet: Neural Models of Syntax
+   * [SyntaxNet: Neural Models of Syntax](syntaxnet_neural_models_of_syntax.md)
 
