@@ -1,2 +1,2 @@
-# Partial Differential Equations
+# 偏微分方程
 
