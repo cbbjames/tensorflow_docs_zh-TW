@@ -1,2 +1,2 @@
-# Recurrent Neural Networks
+# 循環神經網路（Recurrent Neural Networks）
 

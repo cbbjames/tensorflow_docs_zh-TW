@@ -13,5 +13,5 @@
    * [Convolutional Neural Networks](convolutional_neural_networks.md)
    * [Vector Representations of Words](vector_representations_of_words.md)
    * [Recurrent Neural Networks](recurrent_neural_networks.md)
-   * Sequence-to-Sequence Models
+   * [Sequence-to-Sequence Models](sequence-to-sequence_models.md)
 
