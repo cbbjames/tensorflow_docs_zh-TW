@@ -1,2 +1,2 @@
-# Deep MNIST for Experts
+# 給機器學習專家——深入MNIST
 
