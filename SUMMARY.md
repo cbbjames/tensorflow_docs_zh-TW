@@ -27,5 +27,5 @@
    * [TensorBoard: Graph Visualization](tensorboard_graph_visualization.md)
    * [Reading Data](reading_data.md)
    * [Distributed TensorFlow](distributed_tensorflow.md)
-   * Threading and Queues
+   * [Threading and Queues](threading_and_queues.md)
 
