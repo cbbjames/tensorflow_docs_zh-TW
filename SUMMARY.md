@@ -35,4 +35,5 @@
    * [Using GPUs](using_gpus.md)
    * [Sharing Variables](sharing_variables.md)
    * [A Tool Developer's Guide to TensorFlow Model Files](a_tool_developers_guide_to_tensorflow_model_files.md)
+   * How to Retrain Inception using Transfer Learning
 
