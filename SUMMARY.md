@@ -41,4 +41,5 @@
 * API
    * [Python API](python_api.md)
    * [C++ API](c++_api.md)
+* Resources
 
