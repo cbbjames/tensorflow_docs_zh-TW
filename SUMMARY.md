@@ -34,5 +34,5 @@
    * [Custom Data Readers](custom_data_readers.md)
    * [Using GPUs](using_gpus.md)
    * [Sharing Variables](sharing_variables.md)
-   * A Tool Developer's Guide to TensorFlow Model Files
+   * [A Tool Developer's Guide to TensorFlow Model Files](a_tool_developers_guide_to_tensorflow_model_files.md)
 
