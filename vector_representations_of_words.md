@@ -1,2 +1,2 @@
-# Vector Representations of Words
+# 詞向量表示（Vector Representations of Words）
 
