@@ -1,2 +1,2 @@
-# SyntaxNet: Neural Models of Syntax
+# SyntaxNet: 語法的神經模型
 
