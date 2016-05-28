@@ -7,4 +7,5 @@
    * [Basic Usage](basic_usage.md)
 * [Tutorials](preface.md)
    * [MNIST For ML Beginners](mnist_for_ml_beginners.md)
+   * Deep MNIST for Experts
 
