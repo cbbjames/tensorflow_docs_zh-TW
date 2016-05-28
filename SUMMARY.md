@@ -21,4 +21,5 @@
    * [Image Recognition](image_recognition.md)
    * [Deep Dream Visual Hallucinations](deep_dream_visual_hallucinations.md)
 * [How-Tos](how-tos.md)
+   * Variables: Creation, Initializing, Saving, and Restoring
 
