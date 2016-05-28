@@ -1,2 +1,2 @@
-# TensorBoard: Visualizing Learning
+# TensorBoard: 視覺化學習
 
