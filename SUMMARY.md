@@ -18,5 +18,5 @@
    * [Mandelbrot Set](mandelbrot_set.md)
    * [Partial Differential Equations](partial_differential_equations.md)
    * [MNIST Data Download](mnist_data_download.md)
-   * Image Recognition
+   * [Image Recognition](image_recognition.md)
 
