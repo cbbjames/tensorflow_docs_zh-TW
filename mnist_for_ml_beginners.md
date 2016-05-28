@@ -1,2 +1,2 @@
-# MNIST For ML Beginners
+# 機器學習初學——MNIST
 
