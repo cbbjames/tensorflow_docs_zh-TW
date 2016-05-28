@@ -20,4 +20,5 @@
    * [MNIST Data Download](mnist_data_download.md)
    * [Image Recognition](image_recognition.md)
    * [Deep Dream Visual Hallucinations](deep_dream_visual_hallucinations.md)
+* How-Tos
 
