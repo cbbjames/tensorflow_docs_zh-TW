@@ -17,5 +17,5 @@
    * [SyntaxNet: Neural Models of Syntax](syntaxnet_neural_models_of_syntax.md)
    * [Mandelbrot Set](mandelbrot_set.md)
    * [Partial Differential Equations](partial_differential_equations.md)
-   * MNIST Data Download
+   * [MNIST Data Download](mnist_data_download.md)
 
