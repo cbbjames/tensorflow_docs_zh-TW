@@ -32,5 +32,5 @@
    * [How to write TensorFlow code](how_to_write_tensorflow_code.md)
    * [Writing Documentation](writing_documentation.md)
    * [Custom Data Readers](custom_data_readers.md)
-   * Using GPUs
+   * [Using GPUs](using_gpus.md)
 
