@@ -9,5 +9,5 @@
    * [MNIST For ML Beginners](mnist_for_ml_beginners.md)
    * [Deep MNIST for Experts](deep_mnist_for_experts.md)
    * [TensorFlow Mechanics 101](tensorflow_mechanics_101.md)
-   * TensorFlow Serving
+   * [TensorFlow Serving](tensorflow_serving.md)
 
