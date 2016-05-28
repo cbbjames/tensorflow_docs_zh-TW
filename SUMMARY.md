@@ -2,6 +2,6 @@
 
 * [Preface](README.md)
 * [GET STARTED](chapter1.md)
-   * [basic usage](introduction.md)
+   * [Introduction](introduction.md)
 * [Download and Setup](preface.md)
 
