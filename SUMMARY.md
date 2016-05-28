@@ -40,4 +40,5 @@
    * [How to Quantize Neural Networks with TensorFlow](how_to_quantize_neural_networks_with_tensorflow.md)
 * API
    * [Python API](python_api.md)
+   * C++ API
 
