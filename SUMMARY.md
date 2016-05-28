@@ -28,5 +28,5 @@
    * [Reading Data](reading_data.md)
    * [Distributed TensorFlow](distributed_tensorflow.md)
    * [Threading and Queues](threading_and_queues.md)
-   * Adding a New Op
+   * [Adding a New Op](adding_a_new_op.md)
 
