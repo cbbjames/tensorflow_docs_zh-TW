@@ -1,2 +1,2 @@
-# Image Recognition
+# 影像辨識
 
