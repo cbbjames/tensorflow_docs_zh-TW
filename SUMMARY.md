@@ -37,4 +37,5 @@
    * [A Tool Developer's Guide to TensorFlow Model Files](a_tool_developers_guide_to_tensorflow_model_files.md)
    * [How to Retrain Inception using Transfer Learning](how_to_retrain_inception_using_transfer_learning.md)
    * [How to Export and Import a Model](how_to_export_and_import_a_model.md)
+   * How to Quantize Neural Networks with TensorFlow
 
