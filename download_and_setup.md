@@ -1,2 +1,2 @@
-# Download and Setup
+# 下載與安裝
 
