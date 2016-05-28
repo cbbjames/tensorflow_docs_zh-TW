@@ -31,4 +31,5 @@
    * [Adding a New Op](adding_a_new_op.md)
    * [How to write TensorFlow code](how_to_write_tensorflow_code.md)
    * [Writing Documentation](writing_documentation.md)
+   * Custom Data Readers
 
