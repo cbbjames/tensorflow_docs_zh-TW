@@ -19,4 +19,5 @@
    * [Partial Differential Equations](partial_differential_equations.md)
    * [MNIST Data Download](mnist_data_download.md)
    * [Image Recognition](image_recognition.md)
+   * Deep Dream Visual Hallucinations
 
