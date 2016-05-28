@@ -1,2 +1,1 @@
-# Variables: Creation, Initializing, Saving, and Restoring
-
+# 變數: 建立、初始化、保存與加載
