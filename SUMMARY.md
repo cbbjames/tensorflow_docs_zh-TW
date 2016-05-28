@@ -29,5 +29,5 @@
    * [Distributed TensorFlow](distributed_tensorflow.md)
    * [Threading and Queues](threading_and_queues.md)
    * [Adding a New Op](adding_a_new_op.md)
-   * How to write TensorFlow code
+   * [How to write TensorFlow code](how_to_write_tensorflow_code.md)
 
