@@ -23,4 +23,5 @@
 * [How-Tos](how-tos.md)
    * [Variables: Creation, Initializing, Saving, and Restoring](variables_creation,_initializing,_saving,_and_rest.md)
    * [TensorFlow Mechanics 101](how_tensorflow_mechanics_101.md)
+   * TensorBoard: Visualizing Learning
 
