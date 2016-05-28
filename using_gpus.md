@@ -1,2 +1,2 @@
-# Using GPUs
+# 使用GPU
 
