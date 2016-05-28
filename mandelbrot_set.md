@@ -1,2 +1,2 @@
-# Mandelbrot Set
+# 曼德博集合（Mandelbrot Set）
 
