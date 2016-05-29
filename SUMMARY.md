@@ -20,6 +20,7 @@
    * [MNIST Data Download](mnist_data_download.md)
    * [Image Recognition](image_recognition.md)
    * [Deep Dream Visual Hallucinations](deep_dream_visual_hallucinations.md)
+   * tutor
 * [How-Tos](how-tos.md)
    * [Variables: Creation, Initializing, Saving, and Restoring](variables_creation,_initializing,_saving,_and_rest.md)
    * [TensorFlow Mechanics 101](how_tensorflow_mechanics_101.md)
