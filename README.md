@@ -27,5 +27,6 @@
 * 熟悉 [Markdown](http://markdown.tw/#list) 語法
 * 友站zh-CH的翻譯經驗 [TensorFlow 官方文档中文版](http://wiki.jikexueyuan.com/project/tensorflow-zh/)
 * Gitbook: [這裡](https://www.gitbook.com/book/cbbjames/tensorflow-documentation-zh-tw/details)
-
+* Github: [這裡](https://github.com/cbbjames/tensorflow_docs_zh-TW)
+* TensorFlow版本: r0.8
 
