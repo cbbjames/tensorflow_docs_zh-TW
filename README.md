@@ -20,4 +20,7 @@
 * 使用Gitbook [教學](https://kingofamani.gitbooks.io/git-teach/content/chapter_6_gitbook/chapter_6_gitbookgitbook2.html)
 * 熟悉 [Markdown](http://markdown.tw/#list)
 * 加入FB: [TensorFlow Taiwan](https://www.facebook.com/tensorflowtaiwan/)
+* 逛一逛吧! [Tensor Flow](https://www.tensorflow.org/)
+* 友站zh-CH的翻譯經驗 [TensorFlow 官方文档中文版](http://wiki.jikexueyuan.com/project/tensorflow-zh/)
+
 
