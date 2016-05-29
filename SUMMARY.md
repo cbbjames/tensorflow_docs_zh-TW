@@ -22,7 +22,7 @@
    * [Image Recognition](image_recognition.md)
    * [Deep Dream Visual Hallucinations](deep_dream_visual_hallucinations.md)
 * [How-Tos](how-tos.md)
-   * how_to
+   * [how_to](howto.md)
    * [Variables: Creation, Initializing, Saving, and Restoring](variables_creation,_initializing,_saving,_and_rest.md)
    * [TensorFlow Mechanics 101](how_tensorflow_mechanics_101.md)
    * [TensorBoard: Visualizing Learning](tensorboard_visualizing_learning.md)
