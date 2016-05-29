@@ -22,5 +22,5 @@
 * 加入FB: [TensorFlow Taiwan](https://www.facebook.com/tensorflowtaiwan/)
 * 逛一逛吧! [Tensor Flow](https://www.tensorflow.org/)
 * 友站zh-CH的翻譯經驗 [TensorFlow 官方文档中文版](http://wiki.jikexueyuan.com/project/tensorflow-zh/)
-
+* Gitbook: [這裡](https://www.gitbook.com/book/cbbjames/tensorflow-documentation-zh-tw/details)
 
