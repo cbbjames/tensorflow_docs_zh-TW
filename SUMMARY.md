@@ -22,6 +22,7 @@
    * [Image Recognition](image_recognition.md)
    * [Deep Dream Visual Hallucinations](deep_dream_visual_hallucinations.md)
 * [How-Tos](how-tos.md)
+   * how_to
    * [Variables: Creation, Initializing, Saving, and Restoring](variables_creation,_initializing,_saving,_and_rest.md)
    * [TensorFlow Mechanics 101](how_tensorflow_mechanics_101.md)
    * [TensorBoard: Visualizing Learning](tensorboard_visualizing_learning.md)
@@ -39,7 +40,6 @@
    * [How to Retrain Inception using Transfer Learning](how_to_retrain_inception_using_transfer_learning.md)
    * [How to Export and Import a Model](how_to_export_and_import_a_model.md)
    * [How to Quantize Neural Networks with TensorFlow](how_to_quantize_neural_networks_with_tensorflow.md)
-   * how_to
 * [API](api.md)
    * [Python API](python_api.md)
    * [C++ API](c++_api.md)
