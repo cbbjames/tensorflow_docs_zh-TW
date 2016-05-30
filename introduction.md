@@ -29,7 +29,7 @@ train = optimizer.minimize(loss)
 # 在開始之前，先透過這行程式碼初始化變數
 init = tf.initialize_all_variables()
 
-# 啟動(*'run'*)這個圖
+# 啟動(*run*)這個圖
 sess = tf.Session()
 sess.run(init)
 
