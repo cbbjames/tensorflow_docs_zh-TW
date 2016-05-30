@@ -5,7 +5,7 @@
 
 在我們真正開始前，讓我們看一段TensorFlow Python API的程式碼，好讓你對我們即將開始的內容有點概念。
 
-這是一個很簡單的Python程式，它造出一些二維的資料並用一條線去擬合。
+這是一個簡單的Python程式，它造出一些二維的資料並用一條線去擬合。
 
 ```
 import tensorflow as tf
