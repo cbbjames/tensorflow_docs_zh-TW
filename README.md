@@ -5,9 +5,6 @@
 ## Hi, 我是一名資工系的台灣學生，當你想開始一項開源，有沒有這樣的想法曾經出現: 
 ## 既然要看懂官方文件，何不順便翻成中文造福更多人? 
 # [TensorFlow](https://www.tensorflow.org/)官方文件的繁體中文在地化計畫
-* 對Machine Learning 有興趣嗎?
-* 想學習如何分析資料，認識世界頂尖的機器學習服務嗎?
-
 ### 認識Google繼Android後最有可能改變世界的開源[TensorFlow](https://www.tensorflow.org/)
 [觀看TensorFlow簡介](https://www.youtube.com/watch?v=oZikw5k_2FM)
 * 不知如何開始[TensorFlow](https://www.tensorflow.org/)?
