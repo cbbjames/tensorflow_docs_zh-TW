@@ -55,7 +55,7 @@ $ sudo pip install --upgrade https://storage.googleapis.com/tensorflow/mac/tenso
 
 ```
 
-若是python3:
+python3:
 
 ```
 # Ubuntu/Linux 64-bit, CPU only:
