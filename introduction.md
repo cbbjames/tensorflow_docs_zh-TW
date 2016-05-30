@@ -14,7 +14,7 @@ import numpy as np
 x_data = np.random.rand(100).astype(np.float32)
 y_data = x_data * 0.1 + 0.3
 
-#試著找出 y_data = W * x_data + b 的 W 與 b
+# 試著找出 y_data = W * x_data + b 的 W 與 b
 # (雖然我們知道 W 應是 0.1 且 b 是 0.3, 但讓 Tensorflow
 # 為我們處理這件事)
 W = tf.Variable(tf.random_uniform([1], -1.0, 1.0))
