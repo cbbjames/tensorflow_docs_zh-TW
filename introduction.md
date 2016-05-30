@@ -29,7 +29,7 @@ train = optimizer.minimize(loss)
 # 在開始之前，先透過這行程式碼初始化變數
 init = tf.initialize_all_variables()
 
-# 啟動(`run`)這個圖
+# 啟動(run)這個圖
 sess = tf.Session()
 sess.run(init)
 
@@ -41,24 +41,13 @@ for step in xrange(201):
 
 # 找到最佳擬合線是 W: [0.1], b: [0.3]
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ```
+程式碼的第一部分建立並處理了圖的資料。TensorFlow並不會真的做任何運算直到Session被建立並且呼叫`run`函數。
+
+為了進一步激發你的求知慾，我們建議你先瞧一瞧TensorFlow是何處理一個經典的機器學習問題的。在類神經網路的領域中，最經典的問題莫過於手寫數字辨識(handwritten digit classification)問題MNIST了。我們提供了兩篇簡介，分別給機器學習初學者與專家。若您已經利用其他軟體訓練過非常多MNIST模型，請服用紅色藥丸; 如果你從來沒聽過MNIST，那你應該選擇藍色藥丸; 若你認為你介於兩者之間，我們建議你快速瀏覽過藍色藥丸的內容，再服用紅色藥丸。
+
+![](https://www.tensorflow.org/versions/r0.8/images/blue_pill.png)![](https://www.tensorflow.org/versions/r0.8/images/red_pill.png)
+
 
 
 
