@@ -4,7 +4,7 @@
 * [GET STARTED](chapter1.md)
    * [簡介](introduction.md)
    * [下載與安裝](download_and_setup.md)
-   * [Basic Usage](basic_usage.md)
+   * [基本操作](basic_usage.md)
 * [Tutorials](preface.md)
    * [tutor](tutor.md)
    * [MNIST For ML Beginners](mnist_for_ml_beginners.md)
