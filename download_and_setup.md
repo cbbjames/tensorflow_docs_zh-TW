@@ -9,7 +9,7 @@ TensorFlow Python API 支援 Python 2.7 and Python 3.3+
 
 GPU (僅限Linux) 搭載Cuda Toolkit 7.5 及 cuDNN v4 最佳。其他版本(Cuda toolkit >= 7.0 and cuDNN 6.5(v2), 7.0(v3), v5)僅限直接由原始碼安裝。細節請參照[Cuda installation](https://www.tensorflow.org/versions/r0.8/get_started/os_setup.html#optional-install-cuda-gpus-on-linux)。
 
-##概況
+##總攬
 
 我們支援以下方式來安裝TensorFlow:
 
