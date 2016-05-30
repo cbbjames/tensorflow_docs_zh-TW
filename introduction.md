@@ -57,7 +57,9 @@ for step in xrange(201):
 # 推薦繼續閱讀
 
 * [下載與安裝](download_and_setup.md)
-* 
+* [基本操作](basic_usage.md)
+* [TensorFlow使用指南](tensorflow_mechanics_101.md)
+* [Tinker With a Neural Network Right Here in Your Browser](http://playground.tensorflow.org/#activation=tanh&batchSize=10&dataset=circle&regDataset=reg-plane&learningRate=0.03&regularizationRate=0&noise=0&networkShape=4,2&seed=0.11431&showTestData=false&discretize=false&percTrainData=50&x=true&y=true&xTimesY=false&xSquared=false&ySquared=false&cosX=false&sinX=false&cosY=false&sinY=false&collectStats=false&problem=classification&initZero=false)
  
 
 
