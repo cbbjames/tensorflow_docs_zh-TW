@@ -1,4 +1,5 @@
 # 簡介
+[英文原文](https://www.tensorflow.org/versions/r0.8/get_started/index.html)
 
 本節我們將會讓你了解並運行TensorFlow!
 
