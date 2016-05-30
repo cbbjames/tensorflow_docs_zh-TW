@@ -5,7 +5,7 @@
 
 在我們真正開始前，讓我們看一段TensorFlow Python API的程式碼，好讓你對我們即將開始的內容有點概念。
 
-這是一個簡單的Python程式，它造出一些二維的資料並用一條線去擬合。
+這是一個簡單的Python程式，它造出一些二維的資料並用一條線去配適(fit)。
 
 ```
 import tensorflow as tf
@@ -34,13 +34,13 @@ init = tf.initialize_all_variables()
 sess = tf.Session()
 sess.run(init)
 
-# 擬合
+# 配適(fitting)
 for step in xrange(201):
     sess.run(train)
     if step % 20 == 0:
 >print(step, sess.run(W), sess.runn(W), sn(W), s(b))
 
-# 找到最佳擬合線是 W: [0.1], b: [0.3]
+# 找到最佳配適線(best fitting line)是 W: [0.1], b: [0.3]
 
 ```
 程式碼的第一部分建立並處理了圖的資料。在Session被建立並且呼叫`run`函數前，TensorFlow並不會真的做任何運算。
