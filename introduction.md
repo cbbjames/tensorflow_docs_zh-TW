@@ -50,7 +50,7 @@ for step in xrange(201):
 <img src="https://www.tensorflow.org/versions/r0.8/images/red_pill.png" width="300"><br / >
 
 
-  &nbsp;&nbsp;&nbsp;&nbsp; [初學藍色藥丸](mnist_for_ml_beginners.md)<pre>               </pre> [專家紅色藥丸](deep_mnist_for_experts.md)
+ &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;[初學藍色藥丸](mnist_for_ml_beginners.md)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [專家紅色藥丸](deep_mnist_for_experts.md)
 
 
  
