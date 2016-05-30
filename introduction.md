@@ -50,10 +50,14 @@ for step in xrange(201):
 <a href="mnist_for_ml_beginners.md"><img src="https://www.tensorflow.org/versions/r0.8/images/blue_pill.png" width="350" border="0"></a>
 <a href="deep_mnist_for_experts.md"><img src="https://www.tensorflow.org/versions/r0.8/images/red_pill.png" width="350"></a><br / >
 
-
 圖片由CC BY-SA 4.0;授權，原作者 W. Carter
 
+如果你已經決定要學習並安裝TensorFlow，你可以跳過這些並直接開始後面的章節。不用擔心，你還是可以在未來看到MNIST——我們仍會用MNIST作為說明TensorFlow技術與特色時的範例。
 
+# 推薦繼續閱讀
+
+* [下載與安裝](download_and_setup.md)
+* 
  
 
 
