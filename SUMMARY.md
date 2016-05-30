@@ -3,7 +3,7 @@
 * [Preface](README.md)
 * [GET STARTED](chapter1.md)
    * [簡介](introduction.md)
-   * [Download and Setup](download_and_setup.md)
+   * [下載與安裝](download_and_setup.md)
    * [Basic Usage](basic_usage.md)
 * [Tutorials](preface.md)
    * [tutor](tutor.md)
