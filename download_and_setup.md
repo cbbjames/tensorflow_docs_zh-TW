@@ -70,7 +70,11 @@ $ sudo easy_install --upgrade six
 $ sudo pip3 install --upgrade https://storage.googleapis.com/tensorflow/mac/tensorflow-0.8.0-py3-none-any.whl
 
 ```
+注意: 如果你想從<0.7.1的版本升級，先解安裝舊版本的TensorFlow並用`pip uninstall` 確保你得到完整的安裝
 
+現在你可以[測試你的安裝](https://www.tensorflow.org/versions/r0.8/get_started/os_setup.html#test-the-tensorflow-installation)
+
+## Virtualenv 安裝
 
 
 
