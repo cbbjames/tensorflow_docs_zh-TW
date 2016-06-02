@@ -5,6 +5,7 @@
    * [簡介](introduction.md)
    * [下載與安裝](download_and_setup.md)
        * [測試安裝](testinstallation.md)
+       * 常見問題
    * [基本操作](basic_usage.md)
 * [Tutorials](preface.md)
    * [tutor](tutor.md)
