@@ -24,12 +24,13 @@
 
 #如何開始
 
-* 逛一逛吧! [TensorFlow](https://www.tensorflow.org/)
-* 加入FB社群討論: [TensorFlow Taiwan](https://www.facebook.com/tensorflowtaiwan/)
+* 逛一逛吧! [TensorFlow](https://www.tensorflow.org/) 
+* 加入FB社群 [TensorFlow Taiwan](https://www.facebook.com/tensorflowtaiwan/)討論
+* [Slack](https://tensorflowtaiwanuser.slack.com/): feel free to leave your email in messages to join!
 * 使用Gitbook [教學](https://kingofamani.gitbooks.io/git-teach/content/chapter_6_gitbook/chapter_6_gitbookgitbook2.html)
 * 熟悉 [Markdown](http://markdown.tw/#list) 語法
 * 友站zh-CH的翻譯經驗 [TensorFlow 官方文档中文版](http://wiki.jikexueyuan.com/project/tensorflow-zh/)
-* Gitbook: [這裡](https://www.gitbook.com/book/cbbjames/tensorflow-documentation-zh-tw/details)
-* Github: [這裡](https://github.com/cbbjames/tensorflow_docs_zh-TW)
+* Gitbook: [tensorflow-documentation-zh-tw](https://www.gitbook.com/book/cbbjames/tensorflow-documentation-zh-tw/details)
+* Github: [tensorflow-documentation-zh-tw](https://github.com/cbbjames/tensorflow_docs_zh-TW)
 * TensorFlow版本: r0.8
 
