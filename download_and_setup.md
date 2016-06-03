@@ -72,7 +72,7 @@ $ sudo pip3 install --upgrade https://storage.googleapis.com/tensorflow/mac/tens
 ```
 **注意**: 如果你想從<0.7.1的版本升級，先解安裝舊版本的TensorFlow並用`pip uninstall` 確保你之後可以完整地安裝。
 
-現在你可以[測試你的安裝](testinstallation.md)
+現在你可以 [測試你的安裝](testinstallation.md)
 
 ## Virtualenv 安裝
 
