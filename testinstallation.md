@@ -35,4 +35,16 @@ Hello, TensorFlow!
 
 ## 啟動TensorFlow演示模型(demo model)
 
+所有的TensorFlow package包括演示模型(demo models)都安裝在Python library。精確的安裝位置根據你的系統不同，但通常是以下之一:
 
+```
+/usr/local/lib/python2.7/dist-packages/tensorflow
+/usr/local/lib/python2.7/site-packages/tensorflow
+
+```
+你可以利用以下的指令找到所在資料夾(注意: 使用你用來安裝TensorFlow的Python版本，例如如果你是用 Python3 安裝，輸入`python3`而不是`Python`。)
+
+```
+$ python -c 'import os; import inspect; import tensorflow; print(os.path.dirname(inspect.getfile(tensorflow)))'
+
+```
