@@ -48,3 +48,24 @@ Hello, TensorFlow!
 $ python -c 'import os; import inspect; import tensorflow; print(os.path.dirname(inspect.getfile(tensorflow)))'
 
 ```
+這個簡單的手寫數字辨識(handwritten digits classification)演示模型的MNIST數據位於子目錄`models/image/mnist/convolutional.py`。你可以透過以下指令來運行(注意要使用與TensorFlow相同的Python版本)。
+
+```
+# 用 'python -m' 來找到程式在Python中的路徑:
+$ python -m tensorflow.models.image.mnist.convolutional
+Extracting data/train-images-idx3-ubyte.gz
+Extracting data/train-labels-idx1-ubyte.gz
+Extracting data/t10k-images-idx3-ubyte.gz
+Extracting data/t10k-labels-idx1-ubyte.gz
+...etc...
+
+# 或是你可以直接把這個路徑傳給python的解譯器(interpreter)
+# (注意要使用與TensorFlow相同的Python版本
+# 例如版本為Python 3: .../python3.X/...  )
+$ python /usr/local/lib/python2.7/dist-packages/tensorflow/models/image/mnist/convolutional.py
+...
+
+```
+
+
+
