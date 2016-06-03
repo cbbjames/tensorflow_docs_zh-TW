@@ -14,3 +14,25 @@ export CUDA_HOME=/usr/local/cuda
 ## 由命列列啟動TensorFlow
 
 若有任何錯誤發生，請見[常見問題]()。
+
+打開終端機並輸入以下:
+
+```
+$ python
+...
+>>> import tensorflow as tf
+>>> hello = tf.constant('Hello, TensorFlow!')
+>>> sess = tf.Session()
+>>> print(sess.run(hello))
+Hello, TensorFlow!
+>>> a = tf.constant(10)
+>>> b = tf.constant(32)
+>>> print(sess.run(a + b))
+42
+>>>
+
+```
+
+## 啟動TensorFlow演示模型(demo model)
+
+
