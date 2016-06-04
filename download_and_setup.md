@@ -76,6 +76,97 @@ $ sudo pip3 install --upgrade https://storage.googleapis.com/tensorflow/mac/tens
 
 ## Virtualenv 安裝
 
+[Virtualenv](http://docs.python-guide.org/en/latest/dev/virtualenvs/)是一個可以保持位於不同位置的Python專案的依存性(dependencies)的工具。 利用Virtualenv安裝TensorFlow並不會覆蓋本來存在Python packages版本。
+
+[Virtualenv](http://docs.python-guide.org/en/latest/dev/virtualenvs/)的安裝流程
+* 安裝pip 及 Virtualenv
+* 建立Virtualenv環境
+* 啟用Virtualenv環境並在環境中安裝TensorFlow
+* 當你每次想使用TensorFlow，先啟動Virtualenv環境
+
+安裝pip 及 Virtualenv:
+
+```
+# Ubuntu/Linux 64-bit
+$ sudo apt-get install python-pip python-dev python-virtualenv
+
+# Mac OS X
+$ sudo easy_install pip
+$ sudo pip install --upgrade virtualenv
+
+```
+於目錄` ~/tensorflow`下建立Virtualenv環境:
+
+```
+$ virtualenv --system-site-packages ~/tensorflow
+
+```
+啟用Virtualenv環境並在環境中安裝TensorFlow
+
+```
+$ source ~/tensorflow/bin/activate  # If using bash
+$ source ~/tensorflow/bin/activate.csh  # If using csh
+(tensorflow)$  # Your prompt should change
+
+# Ubuntu/Linux 64-bit, CPU only:
+(tensorflow)$ pip install --upgrade https://storage.googleapis.com/tensorflow/linux/cpu/tensorflow-0.8.0-cp27-none-linux_x86_64.whl
+
+# Ubuntu/Linux 64-bit, GPU enabled. Requires CUDA toolkit 7.5 and CuDNN v4.  For
+# other versions, see "Install from sources" below.
+(tensorflow)$ pip install --upgrade https://storage.googleapis.com/tensorflow/linux/gpu/tensorflow-0.8.0-cp27-none-linux_x86_64.whl
+
+# Mac OS X, CPU only:
+(tensorflow)$ pip install --upgrade https://storage.googleapis.com/tensorflow/mac/tensorflow-0.8.0-py2-none-any.whl
+
+```
+
+同樣的，針對Python3:
+
+```
+
+$ source ~/tensorflow/bin/activate  # If using bash
+$ source ~/tensorflow/bin/activate.csh  # If using csh
+(tensorflow)$  # Your prompt should change
+
+# Ubuntu/Linux 64-bit, CPU only:
+(tensorflow)$ pip3 install --upgrade https://storage.googleapis.com/tensorflow/linux/cpu/tensorflow-0.8.0-cp34-cp34m-linux_x86_64.whl
+
+# Ubuntu/Linux 64-bit, GPU enabled. Requires CUDA toolkit 7.5 and CuDNN v4.  For
+# other versions, see "Install from sources" below.
+(tensorflow)$ pip3 install --upgrade https://storage.googleapis.com/tensorflow/linux/gpu/tensorflow-0.8.0-cp34-cp34m-linux_x86_64.whl
+
+# Mac OS X, CPU only:
+(tensorflow)$ pip3 install --upgrade https://storage.googleapis.com/tensorflow/mac/tensorflow-0.8.0-py3-none-any.whl
+
+```
+
+Virtualenv環境已經啟動，現在你可以 [測試安裝](testinstallation.md)
+
+當你使用完畢，關閉環境:
+
+```
+(tensorflow)$ deactivate
+
+$  # Your prompt should change back
+
+```
+
+若要稍後繼續使用TensorFlow，你需要再次啟動Virtualenv環境:
+
+```
+$ source ~/tensorflow/bin/activate  # If using bash.
+$ source ~/tensorflow/bin/activate.csh  # If using csh.
+(tensorflow)$  # Your prompt should change.
+# Run Python programs that use TensorFlow.
+...
+# When you are done using TensorFlow, deactivate the environment.
+(tensorflow)$ deactivate
+
+```
+
+
+
+
 
 
 
