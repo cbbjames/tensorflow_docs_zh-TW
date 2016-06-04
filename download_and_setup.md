@@ -164,7 +164,8 @@ $ source ~/tensorflow/bin/activate.csh  # If using csh.
 
 ```
 
-
+##Anaconda環境安裝
+Anaconda是一個囊括許多科學數值計算package的Python版本。Anaconda使用了一個名為「conda」的package管理系統，類似Virtualenv，Anaconda也擁有自己的環境管理系統([environment system](http://conda.pydata.org/docs/using/envs.html))。
 
 
 
