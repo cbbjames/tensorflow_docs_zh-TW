@@ -28,7 +28,7 @@
 * Github: [tensorflow-documentation-zh-tw](https://github.com/cbbjames/tensorflow_docs_zh-TW)
 * 
 * 逛一逛吧! [TensorFlow](https://www.tensorflow.org/)  (TensorFlow版本: r0.8)
-* 加入FB社群 [TensorFlow Taiwan](https://www.facebook.com/tensorflowtaiwan/)討論
+* 加入FB社群 [TensorFlow Taiwan](https://www.facebook.com/groups/294714030866185/)討論
 * [Slack](https://tensorflowtaiwanuser.slack.com/): feel free to leave your email in messages to join!
 * 使用Gitbook [教學](https://kingofamani.gitbooks.io/git-teach/content/chapter_6_gitbook/chapter_6_gitbookgitbook2.html)
 * 熟悉 [Markdown](http://markdown.tw/#list) 語法
