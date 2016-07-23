@@ -7,7 +7,6 @@
        * [常見問題](common-probliems.md)
        * [測試安裝](testinstallation.md)
        * 由原始碼安裝
-   * 由原始碼安裝
    * [基本操作](basic_usage.md)
 * [Tutorials](preface.md)
    * [tutor](tutor.md)
