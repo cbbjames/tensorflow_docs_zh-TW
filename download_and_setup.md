@@ -205,7 +205,7 @@ Virtualenv下的conda環境可以針對不同Python專案提供各自的版本�
 
 請依照[Anaconda download site](https://www.continuum.io/downloads)的指示
 
-創建一個名為*TensorFlow*的conda環境:
+創建一個名為**TensorFlow**的conda環境:
 
 ```
 # Python 2.7
@@ -301,10 +301,10 @@ $ source activate tensorflow
 
 我們提供四個Docker映像:
 
-* *gcr.io/tensorflow/tensorflow*: TensorFlow CPU binary image
-* *gcr.io/tensorflow/tensorflow:latest-devel*: CPU Binary image plus source code
-* *gcr.io/tensorflow/tensorflow:latest-gpu*: TensorFlow GPU binary image
-* *gcr.io/tensorflow/tensorflow:latest-devel-gpu*: GPU Binary image plus source code
+* **gcr.io/tensorflow/tensorflow**: TensorFlow CPU binary image
+* **gcr.io/tensorflow/tensorflow:latest-devel**: CPU Binary image plus source code
+* **gcr.io/tensorflow/tensorflow:latest-gpu**: TensorFlow GPU binary image
+* **gcr.io/tensorflow/tensorflow:latest-devel-gpu**: GPU Binary image plus source code
 
 對於最新版本(e.g., 0.9.0-gpu).我們加上了*latset* tag
 
@@ -322,7 +322,7 @@ $ docker run -it -p 8888:8888 gcr.io/tensorflow/tensorflow
 
 `-p 8888:8888`的參數是用於傳回Docker容器的內部port給host，確保Jupyter notebook連接。
 
-port的格式是 *hostPort:containerPort*。你可以用任何有效的port number作為host port但container Port的部分必須是`8888`。
+port的格式是 **hostPort:containerPort**。你可以用任何有效的port number作為host port但container Port的部分必須是`8888`。
 
 NVidia GPU支援最新的NVidia驅動安裝與[nvidia-docker](https://github.com/NVIDIA/nvidia-docker):
 ```
