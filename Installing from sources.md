@@ -24,7 +24,7 @@ $ ./PATH_TO_INSTALL.SH --user
 ```
 記得將`PATH_TO_INSTALL.SH`換成你下載installer的位置。
 
-最後根據指示將*bazel*放進你的binary path。
+最後根據指示將**bazel**放進你的binary path。
 
 
 
