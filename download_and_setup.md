@@ -17,6 +17,7 @@ GPU (僅限Linux) 搭載Cuda Toolkit 7.5 及 cuDNN v4 最佳。其他版本(Cuda
 * [Virtualenv install](https://www.tensorflow.org/versions/r0.8/get_started/os_setup.html#virtualenv-installation): 僅安裝在自目錄下，不會影響您電腦裡任何的其他Python程式。
 * [Anaconda install](https://www.tensorflow.org/versions/r0.8/get_started/os_setup.html#anaconda-installation): 在 Anaconda Python 環境下安裝，不會影響您電腦裡任何的其他Python程式。
 * [Docker install](https://www.tensorflow.org/versions/r0.8/get_started/os_setup.html#docker-installation): 安裝在Docker的容器下，獨立於您電腦的任何程式。
+* [Installing from sources](https://www.tensorflow.org/versions/r0.10/get_started/os_setup.html#installing-from-sources): 建立pip wheel並用pip安裝TensorFlow。
 
 若您熟悉Pip, Virtualenv, Anaconda, 或 Docker，您可以針對你的需求來安裝。  
 pip 與 Docker 的映象檔名在上述對應的連結中。  
