@@ -311,7 +311,7 @@ $ source activate tensorflow
 
 Docker安裝的流程如下:
 * 在你的電腦安裝Docker
-* 創建一個[Docker group](http://docs.docker.com/engine/installation/ubuntulinux/#create-a-docker-group)，之後不需要`suod就能啟動`
+* 創建一個[Docker group](http://docs.docker.com/engine/installation/ubuntulinux/#create-a-docker-group)，之後不需要`sudo就能啟動`
 * 啟動包含TensorFlow映像的Docker容器，第一次啟動時映像會自動下載
 
 關於安裝Docker請參考[installing Docker](http://docs.docker.com/engine/installation/)
